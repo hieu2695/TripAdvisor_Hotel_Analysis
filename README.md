@@ -3,7 +3,7 @@
 Welcome!
 This project is an analysis of hotel service in the United States. 
 The project performs two main processes:
-1. Scraping the data from https://www.tripadvisor.com/ .
+1. Scraping the data from [TripvAdvisor](https://www.tripadvisor.com/) .
 2. Analyzing the data.
 
 All the codes were done using Python. To plot United States Choropleth Map, plotly was used.
@@ -11,7 +11,7 @@ All the codes were done using Python. To plot United States Choropleth Map, plot
 ---
 ## Scraping the data
 
-[Notebook link](https://hieu2695.github.io/TripAdvisor_Hotel_Analysis.github.io/Scraping.html)
+[Notebook link](https://hieu2695.github.io/TripAdvisor_Hotel_Analysis/Scraping.html)
 
 I used Python to scrape the data from TripAdvisor website. At the beginning, I want to scrape the data from the main page of United States hotels, but the links for different pages are them same and the "next" and "page" button have no href links to enter. Therefore, I have to change my plan. Firstly, I write a code to scrape all the links for hotel locations in the United States. After that, I can enter the websites with hotels by location using the links above. And in these websites' links, there has a variable to go to other pages. I write a code to retrieve all the links of the hotels in different pages and save them into a list of hote links. Using the for loop, I can scrape the data from each hotel link: Hotel Name, Location, State, Rating, Price, ...
 
@@ -25,7 +25,7 @@ I selected top 100 popular locations in the United States (ranked by TripAdvisor
 ---
 ## Analysis
 
-[Notebook link](https://hieu2695.github.io/TripAdvisor_Hotel_Analysis.github.io/Hotels_Analysis.html)
+[Notebook link](https://hieu2695.github.io/TripAdvisor_Hotel_Analysis/Hotels_Analysis.html)
 
 Before my analysis, I need to preprocess my data. I need to fill missing locations for some hotels and change the price values from object to float. The strange values, outliers are also treated in the process. After that, I have an overview and some visualizations about the hotel service in the United States.
 
