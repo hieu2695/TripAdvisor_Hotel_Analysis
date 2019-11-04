@@ -3,7 +3,7 @@
 Welcome!
 This project is an analysis of hotel service in the United States. 
 The project performs two main processes:
-1. Scraping the data from https://www.tripadvisor.com/ .
+1. Scraping the data from [TripvAdvisor](https://www.tripadvisor.com/) .
 2. Analyzing the data.
 
 All the codes were done using Python. To plot United States Choropleth Map, plotly was used.
