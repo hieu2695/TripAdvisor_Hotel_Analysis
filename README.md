@@ -4,18 +4,21 @@ Welcome!
 This project is an analysis of hotel service in the United States. 
 The project performs two main processes:
 1. Scraping the data from https://www.tripadvisor.com/ .
-2. Analyzing the data. 
+2. Analyzing the data.
+
 All the codes were done using Python. To plot United States Choropleth Map, plotly was used.
 
 ---
 ## Scraping the data
 
+[Notebook link](https://github.com/hieu2695/TripAdvisor_Hotel_Analysis.github.io/Hotels_Analysis.html)
+
 I used Python to scrape the data from TripAdvisor website. At the beginning, I want to scrape the data from the main page of United States hotels, but the links for different pages are them same and the "next" and "page" button have no href links to enter. Therefore, I have to change my plan. Firstly, I write a code to scrape all the links for hotel locations in the United States. After that, I can enter the websites with hotels by location using the links above. And in these websites' links, there has a variable to go to other pages. I write a code to retrieve all the links of the hotels in different pages and save them into a list of hote links. Using the for loop, I can scrape the data from each hotel link: Hotel Name, Location, State, Rating, Price, ...
 
 In general, I have 3 steps to scrape the hotel data:
-Step 1: Retrieve the first pages of U.S locations.
-Step 2: Retrieve other pages of U.S locations by changing a variable in the first pages' url.
-Step 3: Retrieve all the hotel links from location pages and scrape the necessary data using these links.
+* Step 1: Retrieve the first pages of U.S locations.
+* Step 2: Retrieve other pages of U.S locations by changing a variable in the first pages' url.
+* Step 3: Retrieve all the hotel links from location pages and scrape the necessary data using these links.
 
 I selected top 100 popular locations in the United States (ranked by TripAdvisor) and for each location I scraped the hotels from the first 5 pages (around 150 hotels per location).
 
