@@ -32,7 +32,7 @@ Before my analysis, I need to preprocess my data. I need to fill missing locatio
 My main analysis focuses on the best value hotels (hotels with good ratings and reasonable prices) to figure out best places to visit in the U.S. The results can only show the places with high numbers of sightseeing options for tourists such as number of restaurants and number of attractions. They cannot figure out the best destination in the United States.
 
 ---
-## Key Findings:
+## Key Findings
 
 Overall, the majority of hotels (around 83%) in the United States are rated Excellent or Very good. The average cost to stay for one night is $140. I also visualize that when the price increases, the rating seems to be better. All luxury hotels ($1000+ price/night) are rated Excellent or Very good.
 
