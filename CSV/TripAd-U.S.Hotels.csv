@@ -1,0 +1,619 @@
+	Hotel	Location	State	Cost	Score	Rating	Walk.Grade	No. Restaurants	No. Attractions
+0	Cambria Hotel New York - Chelsea	NA	NY	$159	4.5	Excellent	100	443	104
+1	Crowne Plaza Times Square Manhattan	New York City 	NY	$229	4.0	Very good	100	551	246
+2	Park Lane Hotel	New York City 	NY	$180	4.0	Very good	100	263	90
+3	Martinique New York on Broadway, Curio Collection by Hilton	New York City 	NY	$191	4.0	Very good	100	547	104
+4	Arlo NoMad	New York City 	NY	$215	4.5	Excellent	100	511	89
+5	Hilton Garden Inn New York Times Square South	New York City 	NY	$280	4.5	Excellent	100	406	94
+6	Hotel Pennsylvania	New York City 	NY	$85	3.0	Average	100	473	90
+7	The Gotham Hotel	New York City 	NY	$215	4.0	Very good	100	452	141
+8	The Lexington Hotel, Autograph Collection	New York City 	NY	$189	4.0	Very good	100	482	67
+9	Hilton Times Square	New York City 	NY	$215	4.5	Excellent	100	597	236
+10	The Plaza	New York City 	NY	$895	4.5	Excellent	100	263	98
+11	Fifty Hotel & Suites by Affinia	New York City 	NY	$146	4.0	Very good	100	449	50
+12	The Wolcott Hotel	New York City 	NY	$160	4.0	Very good	100	510	95
+13	The Gregory Hotel New York	New York City 	NY	$144	4.0	Very good	100	543	106
+14	Lex Boutique Hotel	NA	NY	$139	4.5	Excellent	100	385	47
+15	InterContinental New York Barclay	New York City 	NY	$200	4.5	Excellent	100	465	77
+16	Colonial House Inn	NA	NY	$155	4.5	Excellent	100	228	40
+17	New York Marriott Downtown	New York City 	NY	$199	4.0	Very good	100	189	41
+18	Hilton Garden Inn New York/Midtown Park Ave	New York City 	NY	$131	4.5	Excellent	100	476	73
+19	CitizenM New York Bowery	New York City 	NY	$189	4.5	Excellent	100	532	165
+20	Holiday Inn New York City - Times Square	New York City 	NY	$130	4.0	Very good	100	533	151
+21	Four Points by Sheraton Midtown - Times Square	New York City 	NY	$142	4.0	Very good	100	457	161
+22	Walker Hotel Greenwich Village	New York City 	NY	$265	4.5	Excellent	100	341	73
+23	Hotel Mulberry	New York City 	NY	$179	4.5	Excellent	100	362	52
+24	Club Quarters Hotel, World Trade Center	New York City 	NY	$170	4.5	Excellent	100	225	49
+25	Aloft Manhattan Downtown Financial - District	NA	NY	$152	4.0	Very good	100	315	56
+26	Broadway Plaza Hotel	New York City 	NY	$260	4.0	Very good	100	474	103
+27	Hilton Garden Inn New York - Times Square Central	NA	NY	$188	4.0	Very good	100	565	226
+28	The Assemblage John Street	New York City 	NY	$197	4.5	Excellent	100	323	67
+29	Hampton Inn Manhattan Grand Central	New York City 	NY	$164	4.5	Excellent	100	348	48
+30	Courtyard New York Manhattan/Times Square West	New York City 	NY	$188	4.5	Excellent	100	439	109
+31	255West Guesthouse	New York City 	NY	$185	5.0	Excellent	85	43	9
+32	Hyatt Regency Los Angeles International Airport	Los Angeles 	CA	$139	4.0	Very good	40	100	3
+33	Residence Inn by Marriott Los Angeles LAX	Los Angeles 	CA	$149	4.5	Excellent	46	44	1
+34	Hollywood Hotel	Los Angeles 	CA	$140	4.0	Very good	83	161	32
+35	Regency Inn Los Angeles	Los Angeles 	CA	$114	4.5	Excellent	41	66	0
+36	Santa Monica Motel	Santa Monica 	CA	$161	4.0	Very good	82	143	31
+37	Embassy Suites by Hilton LAX North	Los Angeles 	CA	$157	4.0	Very good	46	44	1
+38	Courtyard Los Angeles LAX/Century Boulevard	Los Angeles 	CA	$159	4.0	Very good	40	99	2
+39	The Line Hotel	Los Angeles 	CA	$179	4.0	Very good	96	115	10
+40	Ellison Suites	Los Angeles 	CA	$289	4.5	Excellent	92	33	6
+41	Renaissance Los Angeles Airport Hotel	Los Angeles 	CA	$119	4.0	Very good	43	43	1
+42	Hollywood Celebrity Hotel	NA	CA	$169	4.0	Very good	100	78	45
+43	Luxe Rodeo Drive Hotel	Beverly Hills 	CA	$595	4.5	Excellent	100	122	45
+44	H Hotel Los Angeles, Curio Collection by Hilton	Los Angeles 	CA	$156	4.5	Excellent	42	89	2
+45	Good Nite Inn Sylmar	Los Angeles 	CA	$76	4.0	Very good	NA	NA	NA
+46	Hilton Woodland Hills Los Angeles	Los Angeles 	CA	$162	4.0	Very good	52	133	3
+47	Homewood Suites by Hilton Los Angeles International Airport	Los Angeles 	CA	$162	4.5	Excellent	42	88	2
+48	Hotel Normandie	NA	CA	$171	4.5	Excellent	93	116	8
+49	Best Western Plus Carriage Inn	Los Angeles 	CA	$149	4.0	Very good	49	20	3
+50	Hampton Inn & Suites Los Angeles Hollywood	Los Angeles 	CA	$179	4.0	Very good	89	35	6
+51	Best Western Royal Palace Inn & Suites	Los Angeles 	CA	$180	4.0	Very good	54	183	9
+52	Holiday Inn Express North Hollywood - Burbank Area	Los Angeles 	CA	$174	4.5	Excellent	69	111	12
+53	Hilton Garden Inn Los Angeles Marina Del Rey	Marina del Rey 	CA	$224	4.0	Very good	91	21	2
+54	The Brentwood Inn	Los Angeles 	CA	$210	4.5	Excellent	39	38	3
+55	Venice Suites	Los Angeles 	CA	$215	4.0	Very good	91	29	5
+56	Lexen Hotel - North Hollywood	Los Angeles 	CA	$209	4.5	Excellent	82	30	4
+57	DoubleTree by Hilton Hotel San Pedro	Los Angeles 	CA	$238	4.0	Very good	45	13	9
+58	Holiday Inn Express West Los Angeles	Los Angeles 	CA	$171	4.0	Very good	75	43	8
+59	Best Western Woodland Hills	Los Angeles 	CA	$150	4.0	Very good	54	39	2
+60	Radisson Hotel Chatsworth	Los Angeles 	CA	$157	4.0	Very good	49	24	2
+61	Beverly Wilshire Beverly Hills (A Four Seasons Hotel)	Beverly Hills 	CA	$1,020	4.5	Excellent	100	116	29
+62	Holiday Inn Express & Suites Houston IAH - Beltway 8	NA	TX	$85	4.5	Excellent	NA	NA	NA
+63	Club Quarters Hotel in Houston	Houston 	TX	$80	4.0	Very good	100	184	19
+64	DoubleTree by Hilton Hotel & Suites Houston by the Galleria	Houston 	TX	$109	4.0	Very good	88	41	4
+65	Comfort Suites Northwest Houston at Beltway 8	Houston 	TX	$59	5.0	Excellent	48	16	0
+66	Cambria Hotel Houston Downtown Convention Center	Houston 	TX	$125	5.0	Excellent	NA	NA	NA
+67	Royal Sonesta Houston Galleria	Houston 	TX	$149	4.5	Excellent	90	56	6
+68	Holiday Inn Hotel-Houston Westchase	Houston 	TX	$85	4.0	Very good	NA	NA	NA
+69	Marriott Marquis Houston	Houston 	TX	$197	4.5	Excellent	91	49	8
+70	Hotel Alessandra	Houston 	TX	$197	5.0	Excellent	100	149	12
+71	Hyatt Regency Houston	Houston 	TX	$219	4.0	Very good	100	125	10
+72	Hotel ZaZa Houston Museum District	Houston 	TX	$230	4.5	Excellent	79	55	34
+73	Hilton Americas - Houston	Houston 	TX	$174	4.5	Excellent	91	64	11
+74	Red Roof Inn Houston - Westchase	Houston 	TX	$55	4.5	Excellent	40	76	2
+75	Hampton Inn & Suites Houston North IAH	Houston 	TX	$76	4.5	Excellent	NA	NA	NA
+76	Hampton Inn Houston Downtown	Houston 	TX	$132	4.5	Excellent	91	68	6
+77	Homewood Suites by Hilton Houston Downtown	Houston 	TX	$140	4.5	Excellent	90	59	6
+78	Wyndham Houston - Medical Center Hotel and Suites	NA	TX	$151	4.0	Very good	66	54	0
+79	Magnolia Hotel Houston, A Tribute Portfolio Hotel	Houston 	TX	$151	4.5	Excellent	100	188	17
+80	Houston Airport Marriott at George Bush Intercontinental	Houston 	TX	$195	4.5	Excellent	51	77	0
+81	Hyatt Place Houston/Galleria	Houston 	TX	$89	4.0	Very good	93	56	5
+82	Hotel ZaZa Houston Memorial City	Houston 	TX	$260	5.0	Excellent	64	96	8
+83	Hyatt Regency Houston/Galleria	Houston 	TX	$139	4.5	Excellent	98	68	6
+84	Courtyard Houston by The Galleria	Houston 	TX	$92	4.5	Excellent	93	51	5
+85	Crowne Plaza Suites Houston - Near Sugar Land	Houston 	TX	$72	4.5	Excellent	38	42	1
+86	Best Western Plus Downtown Inn & Suites	Houston 	TX	$133	4.5	Excellent	75	221	36
+87	Drury Inn & Suites Houston Near The Galleria	Houston 	TX	$95	4.5	Excellent	76	117	15
+88	The Whitehall Houston	Houston 	TX	$169	4.5	Excellent	88	329	60
+89	Comfort Suites Houston West Beltway 8	Houston 	TX	$79	4.5	Excellent	37	69	0
+90	Hotel Derek Houston Galleria	Houston 	TX	$129	3.5	Very good	89	52	6
+91	The Houstonian Hotel, Club & Spa	Houston 	TX	$269	4.5	Excellent	43	17	3
+92	Omni Houston Hotel	Houston 	TX	$161	4.5	Excellent	60	46	4
+93	AC Hotel by Marriott Houston Downtown	Houston 	TX	$103	4.0	Very good	NA	NA	NA
+94	Crowne Plaza San Antonio Airport	San Antonio 	TX	$79	3.5	Very good	51	62	6
+95	Comfort Suites Alamo/Riverwalk	San Antonio 	TX	$118	4.5	Excellent	86	30	17
+96	Crockett Hotel	San Antonio 	TX	$195	4.5	Excellent	100	145	70
+97	Hotel Contessa	San Antonio 	TX	$135	4.5	Excellent	100	151	81
+98	Holiday Inn San Antonio Riverwalk	San Antonio 	TX	$179	4.0	Very good	100	159	57
+99	La Quinta Inn & Suites by Wyndham San Antonio Airport	San Antonio 	TX	$71	4.0	Very good	40	31	1
+100	Hyatt Place San Antonio Northwest	San Antonio 	TX	$83	4.0	Very good	48	52	3
+101	Hotel Gibbs Downtown San Antonio Riverwalk	San Antonio 	TX	$119	4.0	Very good	100	160	78
+102	Best Western Premier Historic Travelers Hotel Alamo/Riverwalk	San Antonio 	TX	$115	4.0	Very good	100	128	66
+103	La Quinta Inn & Suites by Wyndham San Antonio Northwest	San Antonio 	TX	$71	4.0	Very good	NA	NA	NA
+104	Hilton Garden Inn San Antonio Downtown	San Antonio 	TX	$125	4.0	Very good	100	180	82
+105	Embassy Suites by Hilton San Antonio Brooks Hotel & Spa	San Antonio 	TX	$121	4.5	Excellent	NA	NA	NA
+106	Embassy Suites by Hilton San Antonio Riverwalk-Downtown	San Antonio 	TX	$161	4.5	Excellent	100	125	37
+107	Hampton Inn & Suites San Antonio Lackland AFB SeaWorld	San Antonio 	TX	$89	4.5	Excellent	56	39	2
+108	Home2 Suites by Hilton San Antonio Airport	San Antonio 	TX	$84	4.5	Excellent	47	39	4
+109	Hyatt Place San Antonio Airport/Quarry Market	San Antonio 	TX	$95	4.0	Very good	45	41	3
+110	Comfort Suites San Antonio North - Stone Oak	San Antonio 	TX	$76	4.5	Excellent	54	55	3
+111	Homewood Suites by Hilton San Antonio Airport	San Antonio 	TX	$98	4.0	Very good	51	47	5
+112	Staybridge Suites San Antonio NW Medical Center	San Antonio 	TX	$86	4.5	Excellent	55	59	3
+113	Fairfield Inn & Suites San Antonio Alamo Plaza/Convention Center	San Antonio 	TX	$95	4.0	Very good	95	78	48
+114	Four Points by Sheraton San Antonio Airport	San Antonio 	TX	$102	4.5	Excellent	46	45	5
+115	Best Western Plus San Antonio East Inn & Suites	San Antonio 	TX	$95	4.5	Excellent	NA	NA	NA
+116	Hampton Inn San Antonio - Northwoods	NA	TX	$90	4.0	Very good	39	37	3
+117	Homewood Suites by Hilton Hotel San Antonio North	San Antonio 	TX	$103	4.0	Very good	41	50	2
+118	Homewood Suites by Hilton San Antonio Northwest	San Antonio 	TX	$112	4.0	Very good	52	57	3
+119	Hotel Valencia Riverwalk	San Antonio 	TX	$174	4.5	Excellent	100	160	62
+120	Omni San Antonio Hotel	San Antonio 	TX	$129	4.5	Excellent	58	59	3
+121	Holiday Inn Express Hotel & Suites San Antonio Rivercenter Area	San Antonio 	TX	$96	4.0	Very good	74	12	5
+122	Hampton Inn & Suites San Antonio-Downtown/Market Square	San Antonio 	TX	$98	4.0	Very good	87	274	116
+123	Hampton Inn & Suites San Antonio Northwest/Medical Center	San Antonio 	TX	$80	4.0	Very good	41	49	4
+124	Drury Inn & Suites San Antonio Northwest Medical Center	NA	TX	$85	4.0	Very good	61	62	5
+125	Drury Inn & Suites San Antonio Northeast	San Antonio 	TX	$81	4.5	Excellent	NA	NA	NA
+126	Bahia Resort Hotel	San Diego 	CA	$199	4.5	Excellent	80	19	6
+127	Hard Rock Hotel San Diego	San Diego 	CA	$167	4.5	Excellent	100	144	40
+128	Paradise Point Resort & Spa	San Diego 	CA	$309	4.0	Very good	45	34	8
+129	Kings Inn San Diego	San Diego 	CA	$74	4.5	Excellent	44	43	3
+130	Hotel Indigo San Diego Gaslamp Quarter	San Diego 	CA	$114	4.5	Excellent	100	221	59
+131	The Beach Cottages	San Diego 	CA	$130	4.5	Excellent	100	89	10
+132	Manchester Grand Hyatt San Diego	San Diego 	CA	$179	4.5	Excellent	100	52	24
+133	La Jolla Cove Hotel & Suites	La Jolla 	CA	$124	3.5	Very good	100	60	34
+134	Old Town Inn	San Diego 	CA	$100	4.5	Excellent	96	36	18
+135	Wyndham San Diego Bayside	San Diego 	CA	$118	3.5	Very good	98	40	15
+136	Catamaran Resort Hotel and Spa	San Diego 	CA	$169	4.5	Excellent	93	36	4
+137	Pacific Terrace Hotel	San Diego 	CA	$360	4.5	Excellent	94	47	6
+138	The Sofia Hotel	San Diego 	CA	$137	4.0	Very good	100	165	37
+139	Blue Sea Beach Hotel	San Diego 	CA	$213	4.5	Excellent	94	41	5
+140	Hyatt Regency Mission Bay Spa and Marina	San Diego 	CA	$179	4.0	Very good	60	1416	236
+141	InterContinental San Diego	San Diego 	CA	$147	4.5	Excellent	100	41	15
+142	Hilton Garden Inn San Diego Old Town / SeaWorld Area	San Diego 	CA	$124	4.5	Excellent	95	13	16
+143	Red Roof Inn San Diego - Pacific Beach/SeaWorld	NA	CA	$69	4.5	Excellent	58	19	4
+144	Hilton San Diego Resort & Spa	San Diego 	CA	$148	4.0	Very good	53	20	3
+145	Kona Kai Resort & Spa, A Noble House Resort	San Diego 	CA	$169	4.0	Very good	41	1550	389
+146	Best Western Plus Island Palms Hotel & Marina	San Diego 	CA	$129	4.5	Excellent	61	45	9
+147	Hyatt Regency La Jolla at Aventine	La Jolla 	CA	$159	4.0	Very good	67	94	4
+148	The Lafayette Hotel, Swim Club & Bungalows	San Diego 	CA	$109	4.0	Very good	77	26	5
+149	Porto Vista Hotel in Little Italy	San Diego 	CA	$109	3.5	Very good	93	102	14
+150	The Dana on Mission Bay	San Diego 	CA	$159	4.0	Very good	59	13	5
+151	Found Hotel San Diego	San Diego 	CA	$79	4.5	Excellent	92	102	14
+152	Best Western San Diego/Miramar Hotel	San Diego 	CA	$88	4.0	Very good	36	27	2
+153	Best Western Yacht Harbor Hotel	San Diego 	CA	$112	4.0	Very good	75	18	0
+154	Hilton San Diego Bayfront	San Diego 	CA	$310	4.0	Very good	80	318	86
+155	The Westin San Diego Gaslamp Quarter	San Diego 	CA	$199	4.5	Excellent	100	239	67
+156	Holiday Inn & Suites Orlando - International Dr S	Orlando 	FL	$95	5.0	Excellent	NA	NA	NA
+157	Holiday Inn Resort Orlando-Lake Buena Vista	Orlando 	FL	$86	4.0	Very good	69	48	7
+158	Caribe Royale Orlando	Orlando 	FL	$173	4.0	Very good	54	19	1
+159	The Grove Resort Orlando	Orlando 	FL	$139	4.5	Excellent	NA	NA	NA
+160	Best Western Orlando Gateway Hotel	Orlando 	FL	$119	4.0	Very good	79	132	39
+161	Holiday Inn Orlando - Disney Springs Area	Orlando 	FL	$151	4.5	Excellent	78	113	15
+162	Staybridge Suites Lake Buena Vista	Orlando 	FL	$110	4.5	Excellent	72	79	9
+163	Marriott's Grande Vista	Orlando 	FL	$269	4.5	Excellent	54	25	3
+164	Hilton Grand Vacations at Tuscany Village	Orlando 	FL	$114	4.5	Excellent	76	65	11
+165	Hawthorn Suites by Wyndham Orlando Lake Buena Vista	Orlando 	FL	$92	4.5	Excellent	77	107	11
+166	Hilton Grand Vacations at SeaWorld	Orlando 	FL	$102	4.5	Excellent	75	23	4
+167	Universal's Aventura Hotel	Orlando 	FL	$169	4.5	Excellent	85	128	39
+168	Homewood Suites by Hilton Orlando Theme Parks	Orlando 	FL	$122	4.5	Excellent	74	20	4
+169	StaySky Suites I-Drive Orlando	Orlando 	FL	$97	4.0	Very good	89	33	14
+170	Holiday Inn Express & Suites Orlando At Seaworld	Orlando 	FL	$86	4.5	Excellent	84	35	4
+171	Home2 Suites by Hilton Orlando South Park	Orlando 	FL	$114	4.5	Excellent	43	17	3
+172	Grande Villas Resort	Orlando 	FL	$134	4.5	Excellent	77	101	10
+173	Hampton Inn Orlando/Lake Buena Vista	Orlando 	FL	$137	4.5	Excellent	70	103	13
+174	Hyatt Place Orlando/Lake Buena Vista	Orlando 	FL	$109	4.5	Excellent	92	59	6
+175	Fairfield Inn & Suites by Marriott Orlando Lake Buena Vista	Orlando 	FL	$91	4.5	Excellent	81	100	10
+176	Parc Soleil by Hilton Grand Vacations	Orlando 	FL	$347	4.5	Excellent	NA	NA	NA
+177	Fairfield Inn & Suites by Marriott Orlando at SeaWorld	Orlando 	FL	$76	4.5	Excellent	85	35	4
+178	Hampton Inn Orlando International Drive/Convention Center	Orlando 	FL	$138	4.5	Excellent	88	28	17
+179	Holiday Inn Express Hotel & Suites Orlando East - UCF Area	Orlando 	FL	$88	5.0	Excellent	47	65	2
+180	DoubleTree by Hilton Hotel Orlando East - UCF Area	Orlando 	FL	$117	4.5	Excellent	52	90	7
+181	Holiday Inn Express & Suites Orlando - Lake Buena Vista	Orlando 	FL	$112	5.0	Excellent	NA	NA	NA
+182	Home2 Suites by Hilton Orlando/International Drive South	Orlando 	FL	$105	4.5	Excellent	65	44	6
+183	Holiday Inn Orlando East - UCF Area	Orlando 	FL	$78	4.5	Excellent	47	48	1
+184	Staybridge Suites Orlando At SeaWorld	Orlando 	FL	$108	4.5	Excellent	72	22	4
+185	Blue Tree Resort at Lake Buena Vista	Orlando 	FL	$99	4.0	Very good	83	107	10
+186	Hampton Inn Orlando Near Universal Blv / International Dr	Orlando 	FL	$175	4.0	Very good	79	29	2
+187	Hampton Inn & Suites Orlando International Drive North	NA	FL	$101	4.0	Very good	88	47	14
+188	Dorchester Hotel	Miami Beach 	FL	$105	3.5	Very good	98	78	30
+189	Riviera Hotel & Suites South Beach	Miami Beach 	FL	$124	4.5	Excellent	100	71	28
+190	The Palms Hotel & Spa	Miami Beach 	FL	$199	4.5	Excellent	74	24	5
+191	Fontainebleau	Miami Beach 	FL	$319	4.0	Very good	84	21	5
+192	1 Hotel South Beach	NA	FL	$309	4.5	Excellent	83	31	11
+193	Loews Miami Beach Hotel	Miami Beach 	FL	$399	4.0	Very good	99	147	38
+194	Nobu Hotel Miami Beach	Miami Beach 	FL	$246	4.5	Excellent	78	17	4
+195	Nautilus by Arlo	Miami Beach 	FL	$235	4.5	Excellent	98	75	27
+196	Grand Beach Hotel	NA	FL	$163	4.0	Very good	64	32	5
+197	Shelborne South Beach	Miami Beach 	FL	$224	4.5	Excellent	97	73	26
+198	Shore Club South Beach	Miami Beach 	FL	$189	4.0	Very good	97	77	27
+199	Mondrian South Beach Hotel	Miami Beach 	FL	$231	4.5	Excellent	89	27	2
+200	The Confidante Miami Beach	Miami Beach 	FL	$159	4.5	Excellent	83	24	2
+201	Washington Park Hotel South Beach	NA	FL	$143	4.0	Very good	100	155	49
+202	Eden Roc Miami Beach Hotel	Miami Beach 	FL	$189	4.5	Excellent	78	17	4
+203	Hotel Croydon	Miami Beach 	FL	$227,772	4.5	Excellent	79	22	4
+204	Iberostar Berkeley Shore Hotel	Miami Beach 	FL	$313	4.5	Excellent	100	163	46
+205	Hotel Belleza	NA	FL	$144	4.5	Excellent	89	41	19
+206	South Seas Hotel	Miami Beach 	FL	$132	3.5	Very good	100	92	35
+207	Chelsea Hotel	Miami Beach 	FL	$108	4.0	Very good	100	137	49
+208	Kimpton Surfcomber Hotel	Miami Beach 	FL	$227	4.5	Excellent	99	83	28
+209	Red South Beach Hotel	Miami Beach 	FL	$149	4.0	Very good	74	24	5
+210	Posh South Beach Hostel	Miami Beach 	FL	$58	4.5	Excellent	100	132	39
+211	Lennox Miami Beach	Miami Beach 	FL	$170	5.0	Excellent	NA	NA	NA
+212	Best Western Plus Atlantic Beach Resort	Miami Beach 	FL	$123	3.5	Very good	84	26	3
+213	Hilton Garden Inn Miami South Beach	Miami Beach 	FL	$143	4.0	Very good	76	23	5
+214	Crystal Beach Suites Oceanfront Hotel	Miami Beach 	FL	$126	3.5	Very good	82	68	5
+215	New Point Miami Beach Apartments	Miami Beach 	FL	$126	3.5	Very good	38	18	1
+216	L Hotel Miami Beach	Miami Beach 	FL	$122	4.0	Very good	85	31	4
+217	Marriott Stanton South Beach	Miami Beach 	FL	$239	4.5	Excellent	95	66	12
+218	Hilton Cabana Miami Beach	Miami Beach 	FL	$153	4.0	Very good	52	34	2
+219	Argonaut Hotel, A Noble House Hotel	San Francisco 	CA	$239	4.5	Excellent	100	85	41
+220	Fairmont San Francisco	San Francisco 	CA	$314	4.5	Excellent	100	161	101
+221	Hotel Zoe Fisherman's Wharf	San Francisco 	CA	$199	4.0	Very good	100	122	48
+222	Omni San Francisco Hotel	San Francisco 	CA	$242	4.5	Excellent	100	449	137
+223	Stanford Court San Francisco	San Francisco 	CA	$263	4.5	Excellent	100	192	131
+224	Hyatt Regency San Francisco	San Francisco 	CA	$299	4.0	Very good	100	241	49
+225	Chancellor Hotel on Union Square	San Francisco 	CA	$194	4.5	Excellent	100	327	147
+226	Staypineapple, An Elegant Hotel, Union Square	San Francisco 	CA	$269	4.5	Excellent	100	287	85
+227	Harbor Court Hotel	San Francisco 	CA	$280	4.5	Excellent	100	149	34
+228	InterContinental Mark Hopkins San Francisco	San Francisco 	CA	$278	4.0	Very good	100	163	109
+229	San Francisco Marriott Marquis	San Francisco 	CA	$434	4.0	Very good	100	297	98
+230	Hyatt Centric Fisherman's Wharf San Francisco	San Francisco 	CA	$359	4.0	Very good	100	114	49
+231	Club Quarters Hotel in San Francisco	San Francisco 	CA	$188	4.5	Excellent	100	310	68
+232	Hotel Carlton, a Joie de Vivre hotel	San Francisco 	CA	$199	4.0	Very good	100	219	33
+233	Hotel Vertigo	San Francisco 	CA	$209	4.0	Very good	100	224	46
+234	San Francisco Marriott Fisherman's Wharf	San Francisco 	CA	$233	4.0	Very good	100	118	49
+235	Hotel Zelos San Francisco	San Francisco 	CA	$229	4.0	Very good	100	298	117
+236	The Kensington Park Hotel	San Francisco 	CA	$279	4.0	Very good	100	305	143
+237	Kimpton Buchanan	San Francisco 	CA	$185	4.5	Excellent	93	146	28
+238	Hyatt Place San Francisco Downtown	San Francisco 	CA	$319	4.5	Excellent	NA	NA	NA
+239	Hotel Triton	San Francisco 	CA	$339	4.0	Very good	100	384	183
+240	Galleria Park Hotel	San Francisco 	CA	$349	4.5	Excellent	100	404	136
+241	The Park Central San Francisco	San Francisco 	CA	$260	4.0	Very good	100	346	114
+242	San Francisco Marriott Union Square	San Francisco 	CA	$339	4.0	Very good	100	330	156
+243	Petite Auberge	San Francisco 	CA	$209	4.5	Excellent	100	235	98
+244	Chateau Tivoli Bed & Breakfast	San Francisco 	CA	$199	4.5	Excellent	83	39	16
+245	The Willows Bed and Breakfast Inn	San Francisco 	CA	$180	4.5	Excellent	100	69	17
+246	Parker Guest House	San Francisco 	CA	$229	4.5	Excellent	97	75	17
+247	JW Marriott San Francisco Union Square	San Francisco 	CA	$379	4.0	Very good	100	294	125
+248	The Metro Hotel	San Francisco 	CA	$182	4.5	Excellent	91	49	21
+249	The Frenchmen Hotel	New Orleans 	LA	$179	4.0	Very good	100	86	63
+250	Omni Riverfront Hotel	New Orleans 	LA	$179	4.5	Excellent	100	114	34
+251	Hotel Monteleone	New Orleans 	LA	$299	4.5	Excellent	100	256	178
+252	Comfort Suites New Orleans	New Orleans 	LA	$103	4.5	Excellent	NA	NA	NA
+253	Courtyard New Orleans French Quarter/Iberville	NA	LA	$179	4.5	Excellent	100	209	124
+254	Four Points By Sheraton French Quarter	New Orleans 	LA	$199	4.0	Very good	100	228	269
+255	Olivier House Hotel	New Orleans 	LA	$199	4.5	Excellent	100	207	255
+256	Old No. 77 Hotel & Chandlery	New Orleans 	LA	$168	4.0	Very good	100	143	50
+257	Place d'Armes Hotel	New Orleans 	LA	$222	4.5	Excellent	100	178	236
+258	Hampton Inn & Suites New Orleans Convention Center	New Orleans 	LA	$193	4.5	Excellent	88	27	10
+259	Omni Royal Orleans	New Orleans 	LA	$179	4.5	Excellent	100	256	275
+260	The Jung Hotel & Residences	New Orleans 	LA	$189	4.5	Excellent	87	31	6
+261	Homewood Suites by Hilton New Orleans French Quarter	New Orleans 	LA	$202	4.5	Excellent	100	119	92
+262	Hampton Inn & Suites New Orleans Downtown (French Quarter Area)	New Orleans 	LA	$211	4.5	Excellent	100	197	64
+263	The Pelham	New Orleans 	LA	NA	4.0	Very good	100	210	94
+264	Q&C HotelBar New Orleans, Autograph Collection	New Orleans 	LA	$212	4.5	Excellent	100	193	53
+265	NOPSI Hotel New Orleans	New Orleans 	LA	$181	4.5	Excellent	100	161	36
+266	Maison Dupuy	New Orleans 	LA	$209	4.0	Very good	100	134	179
+267	Domio Baronne St.	New Orleans 	LA	$166	5.0	Excellent	NA	NA	NA
+268	St. James Hotel, an Ascend Hotel Collection Member	New Orleans 	LA	$189	4.0	Very good	100	185	55
+269	Inn on St Ann	New Orleans 	LA	$174	4.5	Excellent	100	96	155
+270	Doubletree by Hilton Hotel New Orleans	New Orleans 	LA	$196	4.0	Very good	100	178	65
+271	1896 O'Malley House Bed and Breakfast	New Orleans 	LA	$155	5.0	Excellent	71	38	2
+272	Creole Gardens Guesthouse Bed & Breakfast	New Orleans 	LA	$129	4.5	Excellent	92	34	10
+273	Federal City Inn & Suites	NA	LA	$129	4.0	Very good	NA	NA	NA
+274	Holiday Inn New Orleans - Chateau Lemoyne	New Orleans 	LA	$198	4.0	Very good	100	218	169
+275	Aloft New Orleans Downtown	New Orleans 	LA	$220	4.5	Excellent	100	167	47
+276	Lions Inn Bed & Breakfast	New Orleans 	LA	$142	4.5	Excellent	92	24	9
+277	Fairfield Inn & Suites New Orleans Downtown/French Quarter Area	New Orleans 	LA	$169	4.5	Excellent	100	152	31
+278	Chez Palmiers Bed and Breakfast	New Orleans 	LA	$135	5.0	Excellent	89	20	12
+279	Alder Hotel	New Orleans 	LA	$109	4.5	Excellent	57	47	6
+280	Bienville House	New Orleans 	LA	$149	4.0	Very good	100	232	189
+281	Gingerhill Farm Retreat	Island of Hawaii 	HI	$129	5.0	Excellent	NA	NA	NA
+282	Kona Seaside Hotel	Island of Hawaii 	HI	$169	4.0	Very good	95	88	38
+283	The Westin Hapuna Beach Resort	Island of Hawaii 	HI	$739	4.5	Excellent	41	10	3
+284	Fairmont Orchid, Hawaii	Island of Hawaii 	HI	$348	4.5	Excellent	52	15	10
+285	Kings' Land by Hilton Grand Vacations	Island of Hawaii 	HI	$359	4.5	Excellent	NA	NA	NA
+286	Hilo Seaside Hotel	Island of Hawaii 	HI	$149	4.0	Very good	72	19	4
+287	Kona Tiki Hotel	Island of Hawaii 	HI	$140	4.0	Very good	55	28	8
+288	Volcano House	Island of Hawaii 	HI	$205	4.0	Very good	54	16	19
+289	Holiday Inn Express Hotel & Suites Kailua-Kona	Island of Hawaii 	HI	$219	4.5	Excellent	94	54	31
+290	Dolphin Bay	NA	HI	$119	4.5	Excellent	74	74	35
+291	Four Seasons Resort Hualalai	Island of Hawaii 	HI	$864	4.5	Excellent	39	7	11
+292	Volcano Inn	Island of Hawaii 	HI	$169	4.5	Excellent	NA	NA	NA
+293	Kilauea Hospitality Group	NA	HI	$164	4.0	Very good	NA	NA	NA
+294	Waikoloa Beach Marriott Resort & Spa	Island of Hawaii 	HI	$199	4.0	Very good	76	15	8
+295	Arnott's Lodge	Island of Hawaii 	HI	$80	4.0	Very good	NA	NA	NA
+296	Manago Hotel	Island of Hawaii 	HI	$75	4.0	Very good	63	15	6
+297	The Inn at Kulaniapia Falls	Island of Hawaii 	HI	$199	4.5	Excellent	NA	NA	NA
+298	Big Island Retreat	Island of Hawaii 	HI	$105	4.5	Excellent	51	11	9
+299	Kohala Suites by Hilton Grand Vacations	Island of Hawaii 	HI	$271	4.5	Excellent	60	38	18
+300	Mauna Kea Beach Hotel, Autograph Collection	Island of Hawaii 	HI	$529	4.5	Excellent	52	37	21
+301	Hilo Bay Hale Bed & Breakfast	Island of Hawaii 	HI	$159	5.0	Excellent	85	35	8
+302	Aloha Junction Bed and Breakfast	Island of Hawaii 	HI	$135	4.5	Excellent	36	16	21
+303	Hale Kai Hawaii Bed & Breakfast	Island of Hawaii 	HI	$185	4.5	Excellent	NA	NA	NA
+304	Volcano Rainforest Retreat	Island of Hawaii 	HI	$285	5.0	Excellent	NA	NA	NA
+305	Lava Pond Lodge	Island of Hawaii 	HI	$158	5.0	Excellent	NA	NA	NA
+306	The Kimos' Ohanas	Island of Hawaii 	HI	$77	5.0	Excellent	NA	NA	NA
+307	Royal Kona Resort	Island of Hawaii 	HI	$159	3.5	Very good	85	28	8
+308	Courtyard by Marriott King Kamehameha's Kona Beach Hotel	Island of Hawaii 	HI	$219	4.0	Very good	94	56	29
+309	Kilauea Lodge and Restaurant	Island of Hawaii 	HI	$185	4.5	Excellent	43	10	3
+310	Volcano Acres Ranch Bed & Breakfast	Island of Hawaii 	HI	$189	5.0	Excellent	NA	NA	NA
+311	Leilani Bed & Breakfast	Island of Hawaii 	HI	$109	4.5	Excellent	NA	NA	NA
+312	Holiday Inn Chicago Downtown	Chicago 	IL	$163	4.0	Very good	100	626	71
+313	Best Western River North Hotel	Chicago 	IL	$143	4.0	Very good	100	297	68
+314	Cambria Hotel Chicago Magnificent Mile	Chicago 	IL	$214	4.5	Excellent	100	224	60
+315	The St. Clair Hotel - Magnificent Mile	Chicago 	IL	$160	4.0	Very good	100	233	62
+316	Sofitel Chicago Magnificent Mile	Chicago 	IL	$179	4.5	Excellent	100	191	68
+317	Hotel Julian	Chicago 	IL	$180	4.5	Excellent	100	254	67
+318	Hilton Garden Inn Chicago Downtown/Magnificent Mile	Chicago 	IL	$161	4.5	Excellent	100	313	73
+319	River Hotel	Chicago 	IL	$142	4.0	Very good	100	299	73
+320	Omni Chicago Hotel	Chicago 	IL	$235	4.5	Excellent	100	275	67
+321	The Whitehall Hotel	Chicago 	IL	$175	4.0	Very good	100	186	66
+322	Majestic Hotel	Chicago 	IL	$79	4.5	Excellent	86	32	8
+323	Hilton Chicago/Magnificent Mile Suites	Chicago 	IL	$199	4.0	Very good	100	130	57
+324	Club Quarters Hotel, Central Loop	Chicago 	IL	$113	4.0	Very good	100	312	42
+325	Hotel Lincoln, a Joie de Vivre Hotel	Chicago 	IL	$169	4.5	Excellent	90	34	14
+326	Embassy Suites by Hilton Chicago Downtown Magnificent Mile	Chicago 	IL	$174	4.0	Very good	100	151	38
+327	Hyatt Place Chicago/Downtown - The Loop	Chicago 	IL	$149	4.5	Excellent	100	315	30
+328	Hampton Inn & Suites Chicago - Downtown	Chicago 	IL	$201	4.5	Excellent	100	327	78
+329	Comfort Suites Michigan Avenue / Loop	Chicago 	IL	$154	4.5	Excellent	100	266	65
+330	Hampton Inn Chicago McCormick Place	Chicago 	IL	$224	4.5	Excellent	99	44	11
+331	Kimpton Hotel Allegro	Chicago 	IL	$170	4.0	Very good	100	301	43
+332	Hilton Garden Inn Chicago Downtown Riverwalk	Chicago 	IL	$163	4.5	Excellent	100	277	71
+333	Fairfield Inn & Suites Chicago Downtown/River North	Chicago 	IL	$199	4.5	Excellent	100	314	63
+334	Hampton Inn Chicago Downtown West Loop	Chicago 	IL	$161	4.5	Excellent	100	174	11
+335	The Drake, A Hilton Hotel	Chicago 	IL	$203	4.0	Very good	100	155	60
+336	City Suites Hotel	Chicago 	IL	$179	4.5	Excellent	100	115	29
+337	Waldorf Astoria Chicago	Chicago 	IL	$300	4.5	Excellent	100	159	67
+338	SpringHill Suites Chicago Downtown/River North	Chicago 	IL	$209	4.5	Excellent	100	327	72
+339	Homewood Suites by Hilton Chicago-Downtown	Chicago 	IL	$181	4.5	Excellent	100	327	73
+340	Hotel EMC2, Autograph Collection	Chicago 	IL	$197	4.5	Excellent	100	197	50
+341	Home2 Suites by Hilton Chicago River North	Chicago 	IL	$201	4.5	Excellent	NA	NA	NA
+342	Hyatt Place Chicago / River North	Chicago 	IL	$187	4.5	Excellent	100	318	63
+343	Aiden by Best Western @ Austin City Hotel	Austin 	TX	$132	4.5	Excellent	59	37	2
+344	Fairfield Inn & Suites Austin North/Parmer Lane	Austin 	TX	$99	4.5	Excellent	37	44	1
+345	Holiday Inn Austin Airport	Austin 	TX	$82	5.0	Excellent	NA	NA	NA
+346	Crowne Plaza Austin	Austin 	TX	$71	4.0	Very good	46	71	7
+347	Home2 Suites by Hilton - Austin/Cedar Park	Austin 	TX	$110	4.5	Excellent	66	64	7
+348	Hyatt Place Austin/Arboretum	Austin 	TX	$121	4.5	Excellent	46	23	1
+349	Home2 Suites by Hilton Austin North/Near the Domain	Austin 	TX	$130	4.5	Excellent	63	98	9
+350	Hampton Inn Austin - Arboretum Northwest	Austin 	TX	$105	4.5	Excellent	50	76	4
+351	La Quinta Inn & Suites by Wyndham Austin Near the Domain	Austin 	TX	$95	4.0	Very good	56	67	7
+352	Staybridge Suites Austin North - Parmer Lane	Austin 	TX	$107	5.0	Excellent	39	56	0
+353	Guild Red River	Austin 	TX	$231	4.5	Excellent	96	61	41
+354	HYATT house Austin / Arboretum	Austin 	TX	$113	4.5	Excellent	50	52	6
+355	Homewood Suites by Hilton TechRidge Parmer @ I-35	Austin 	TX	$89	4.5	Excellent	NA	NA	NA
+356	Hilton Garden Inn Austin Northwest / Arboretum	Austin 	TX	$116	4.5	Excellent	NA	NA	NA
+357	Hilton Garden Inn Austin Airport	Austin 	TX	$147	4.5	Excellent	NA	NA	NA
+358	Hampton Inn & Suites Austin Cedar Park - Lakeline	Austin 	TX	$103	4.5	Excellent	50	58	8
+359	Casa del Sol Bed and Breakfast at Lake Travis	Austin 	TX	$129	4.5	Excellent	NA	NA	NA
+360	La Quinta Inn & Suites by Wyndham Austin NW/Lakeline Mall	Austin 	TX	$95	4.5	Excellent	46	48	4
+361	Habitat Suites Hotel	Austin 	TX	$114	4.0	Very good	38	58	5
+362	Hampton Inn & Suites Austin - Airport	Austin 	TX	$113	4.0	Very good	NA	NA	NA
+363	Hampton Inn Austin/Oak Hill	Austin 	TX	$107	4.5	Excellent	NA	NA	NA
+364	Courtyard Austin Airport	Austin 	TX	$107	4.0	Very good	NA	NA	NA
+365	Hampton Inn Austin/Airport Area South	Austin 	TX	$125	4.0	Very good	NA	NA	NA
+366	SpringHill Suites Austin South	Austin 	TX	$98	4.0	Very good	NA	NA	NA
+367	Hilton Garden Inn Austin North	Austin 	TX	$120	4.5	Excellent	NA	NA	NA
+368	Staybridge Suites Austin Arboretum	Austin 	TX	$93	4.5	Excellent	53	90	9
+369	Residence Inn Austin Northwest/Arboretum	Austin 	TX	$116	4.0	Very good	NA	NA	NA
+370	Homewood Suites by Hilton Austin-Arboretum / NW	Austin 	TX	$125	4.5	Excellent	52	78	7
+371	Archer Hotel Austin	Austin 	TX	$279	4.5	Excellent	76	92	10
+372	Holiday Inn Express Hotel & Suites Austin NW - Arboretum Area	Austin 	TX	$112	4.5	Excellent	57	72	5
+373	Hard Rock Hotel & Casino Las Vegas	NA	NV	$54	4.0	Very good	82	38	9
+374	Luxor Hotel & Casino	Las Vegas 	NV	$39	3.5	Very good	100	57	33
+375	Tuscany Suites & Casino	Las Vegas 	NV	$75	4.0	Very good	90	21	7
+376	Planet Hollywood Resort & Casino	Las Vegas 	NV	$79	4.0	Very good	100	157	99
+377	The Venetian Resort	Las Vegas 	NV	$127	4.5	Excellent	100	164	99
+378	Treasure Island Hotel & Casino	Las Vegas 	NV	$77	4.0	Very good	100	174	75
+379	The Palazzo at The Venetian	Las Vegas 	NV	$127	4.5	Excellent	100	155	70
+380	Bellagio Las Vegas	Las Vegas 	NV	$199	4.0	Very good	100	149	82
+381	Signature at MGM Grand	Las Vegas 	NV	$99	4.5	Excellent	97	44	29
+382	The Cosmopolitan of Las Vegas, Autograph Collection	Las Vegas 	NV	$140	4.5	Excellent	100	195	98
+383	MGM Grand Hotel and Casino	Las Vegas 	NV	$89	4.0	Very good	100	109	56
+384	Trump International Hotel Las Vegas	Las Vegas 	NV	$127	4.5	Excellent	91	56	16
+385	Rio All-Suite Hotel & Casino	NA	NV	$39	3.5	Very good	89	19	15
+386	Westgate Las Vegas Resort & Casino	Las Vegas 	NV	$50	4.0	Very good	84	18	8
+387	The Mirage Hotel & Casino	Las Vegas 	NV	$119	4.0	Very good	100	163	98
+388	Harrah's Las Vegas Hotel & Casino	Las Vegas 	NV	$59	4.0	Very good	100	179	111
+389	Excalibur Hotel & Casino	Las Vegas 	NV	$59	3.5	Very good	97	82	40
+390	Stratosphere Hotel, Casino and Tower, BW Premier Collection	Las Vegas 	NV	$49	3.5	Very good	97	37	26
+391	Hilton Grand Vacations on the Las Vegas Strip	Las Vegas 	NV	$98	4.0	Very good	92	19	7
+392	Flamingo Las Vegas Hotel & Casino	Las Vegas 	NV	$89	3.5	Very good	100	169	115
+393	Vdara Hotel & Spa at ARIA Las Vegas	Las Vegas 	NV	$139	4.5	Excellent	100	84	31
+394	Hilton Grand Vacations On Paradise	Las Vegas 	NV	$82	4.5	Excellent	89	16	14
+395	Golden Nugget Hotel & Casino	Las Vegas 	NV	$69	4.0	Very good	100	85	62
+396	The LINQ Hotel & Casino	Las Vegas 	NV	$100	4.0	Very good	100	170	108
+397	ARIA Resort & Casino	Las Vegas 	NV	$299	4.5	Excellent	100	157	36
+398	Paris Las Vegas	Las Vegas 	NV	$199	4.0	Very good	100	176	114
+399	New York - New York Hotel and Casino	Las Vegas 	NV	$79	4.0	Very good	100	146	61
+400	Mandalay Bay Resort & Casino	Las Vegas 	NV	$69	4.0	Very good	97	75	54
+401	Circus Circus Hotel & Casino Las Vegas	Las Vegas 	NV	$29	3.5	Very good	86	30	10
+402	Bally's Las Vegas Hotel & Casino	Las Vegas 	NV	$56	4.0	Very good	100	127	103
+403	Star Island Resort and Club	Kissimmee 	FL	$83	4.0	Very good	59	40	5
+404	Liki Tiki Village	Kissimmee 	FL	$70	3.5	Very good	NA	NA	NA
+405	Magic Moment Resort and Kids Club	Kissimmee 	FL	$62	4.5	Excellent	60	52	9
+406	Seasons Florida Resort	NA	FL	$47	4.0	Very good	67	20	8
+407	Royale Parc Suites	Kissimmee 	FL	$87	4.5	Excellent	90	38	14
+408	Ramada by Wyndham Kissimmee Gateway	Kissimmee 	FL	$49	3.5	Very good	46	30	2
+409	Holiday Inn Express & Suites S Lake Buena Vista	NA	FL	$93	4.0	Very good	68	67	8
+410	Quality Inn & Suites By The Parks	Kissimmee 	FL	$99	4.5	Excellent	59	51	4
+411	Comfort Suites Maingate East	Kissimmee 	FL	$129	4.5	Excellent	87	22	15
+412	Champions World Resort	Kissimmee 	FL	$45	3.5	Very good	NA	NA	NA
+413	Polynesian Isles Resort	Kissimmee 	FL	$143	4.5	Excellent	64	64	11
+414	GreenPoint Hotel Kissimmee	Kissimmee 	FL	$71	4.5	Excellent	61	51	9
+415	Holiday Inn Club Vacations At Orange Lake Resort	Kissimmee 	FL	$139	4.0	Very good	NA	NA	NA
+416	Margaritaville Resort Orlando	NA	FL	$191	4.5	Excellent	52	57	0
+417	Legacy Vacation Resorts	Kissimmee 	FL	$65	3.5	Very good	57	48	8
+418	Red Lion Hotel Orlando - Kissimmee Maingate	Kissimmee 	FL	$47	3.5	Very good	44	27	2
+419	Wingate by Wyndham Kissimmee at Celebration	Kissimmee 	FL	$59	4.0	Very good	NA	NA	NA
+420	Reunion Resort	Kissimmee 	FL	$143	4.0	Very good	NA	NA	NA
+421	Galleria Palms Hotel	Kissimmee 	FL	$84	4.5	Excellent	57	44	4
+422	Holiday Inn Orlando SW - Celebration Area	Kissimmee 	FL	$64	3.5	Very good	86	38	14
+423	Westgate Town Center Resort	Kissimmee 	FL	$119	3.5	Very good	45	34	4
+424	Westgate Vacation Villas Resort	Kissimmee 	FL	$119	3.5	Very good	45	34	4
+425	Embassy Suites by Hilton Orlando Lake Buena Vista South	Kissimmee 	FL	$117	4.5	Excellent	68	65	6
+426	Regal Oaks - The Official CLC World Resort	NA	FL	$283	4.5	Excellent	76	55	20
+427	Grand Orlando Resort at Celebration	Kissimmee 	FL	$59	3.5	Very good	42	50	1
+428	Red Lion Hotel Orlando Lake Buena Vista South	Kissimmee 	FL	$66	4.5	Excellent	59	14	3
+429	Gaylord Palms Resort & Convention Center	Kissimmee 	FL	$263	4.0	Very good	47	24	0
+430	Seralago Hotel and Suites	Kissimmee 	FL	$49	3.0	Average	85	28	16
+431	Palazzo Lakeside Hotel, an Ascend Hotel Collection Member	Kissimmee 	FL	$50	4.0	Very good	69	19	3
+432	FantasyWorld Resort	Kissimmee 	FL	$1,626	4.0	Very good	71	22	2
+433	Welk Resorts Palm Springs	Cathedral City 	CA	$275	4.0	Very good	42	28	3
+434	7 Springs Inn & Suites	Palm Springs 	CA	$89	4.0	Very good	72	17	4
+435	La Quinta Resort & Club, A Waldorf Astoria Resort	La Quinta 	CA	$297	4.5	Excellent	37	316	59
+436	Ace Hotel & Swim Club	Palm Springs 	CA	$159	4.0	Very good	61	28	5
+437	Omni Rancho Las Palmas Resort & Spa	Rancho Mirage 	CA	$199	4.0	Very good	67	20	4
+438	Hyatt Regency Indian Wells Resort & Spa	Indian Wells 	CA	$289	4.5	Excellent	37	13	2
+439	Marriott's Desert Springs Villas II	Palm Desert 	CA	$259	4.0	Very good	NA	NA	NA
+440	The Palm Springs Hotel	Palm Springs 	CA	$199	4.5	Excellent	62	26	5
+441	The Ritz-Carlton, Rancho Mirage	NA	CA	$379	4.5	Excellent	37	12	2
+442	The Inn at Deep Canyon	Palm Desert 	CA	$89	4.0	Very good	65	37	11
+443	The Westin Desert Willow Villas	Palm Desert 	CA	$222	4.5	Excellent	NA	NA	NA
+444	Little Paradise Hotel	Palm Springs 	CA	$189	5.0	Excellent	68	25	9
+445	Agua Caliente Resort Casino Spa Rancho Mirage	Rancho Mirage 	CA	$227	4.0	Very good	57	15	1
+446	Casa Cody	Palm Springs 	CA	$119	4.5	Excellent	100	76	39
+447	Hampton Inn & Suites Palm Desert	Palm Desert 	CA	$108	4.0	Very good	41	23	0
+448	The Westin Mission Hills Golf Resort & Spa	Rancho Mirage 	CA	$239	4.0	Very good	NA	NA	NA
+449	HOTEL PASEO Autograph Collection Hotels	Palm Desert 	CA	$179	4.5	Excellent	89	34	15
+450	Marriott's Shadow Ridge I-The Villages	Palm Desert 	CA	$199	4.0	Very good	NA	NA	NA
+451	Hilton Garden Inn Palm Springs/Rancho Mirage	Rancho Mirage 	CA	$107	4.0	Very good	70	16	7
+452	Skylark Hotel	Palm Springs 	CA	$159	4.5	Excellent	62	38	12
+453	Renaissance Indian Wells Resort & Spa	Indian Wells 	CA	$289	4.0	Very good	38	13	2
+454	Homewood Suites by Hilton La Quinta	La Quinta 	CA	$107	4.5	Excellent	57	36	3
+455	Best Western Plus Las Brisas Hotel	Palm Springs 	CA	$186	4.0	Very good	100	81	34
+456	Kimpton Rowan Palm Springs Hotel	Palm Springs 	CA	$246	4.5	Excellent	100	94	49
+457	Hotel California	Palm Springs 	CA	$230	5.0	Excellent	67	21	8
+458	Andreas Hotel & Spa	Palm Springs 	CA	$222	4.5	Excellent	100	90	47
+459	DoubleTree by Hilton Hotel Golf Resort Palm Springs	Cathedral City 	CA	$118	4.0	Very good	NA	NA	NA
+460	Colony Palms Hotel	Palm Springs 	CA	$199	4.5	Excellent	88	29	15
+461	L'Horizon Resort & Spa	Palm Springs 	CA	$510	4.5	Excellent	63	33	7
+462	Avalon Hotel and Bungalows Palm Springs	Palm Springs 	CA	$287	4.0	Very good	95	36	15
+463	Desert Riviera Hotel	Palm Springs 	CA	$234	5.0	Excellent	65	23	7
+464	Lorenzo Hotel	Dallas 	TX	$199	4.0	Very good	77	184	31
+465	Fairmont Dallas	Dallas 	TX	$170	4.0	Very good	93	54	11
+466	Hampton Inn & Suites Dallas Downtown	Dallas 	TX	$107	4.5	Excellent	100	109	12
+467	Magnolia Hotel Dallas-Park Cities	Dallas 	TX	$135	4.0	Very good	82	25	8
+468	The Westin Dallas Park Central	Dallas 	TX	$79	4.5	Excellent	NA	NA	NA
+469	La Quinta Inn & Suites by Wyndham Dallas - Addison Galleria	Dallas 	TX	$71	4.0	Very good	72	54	3
+470	Fairfield Inn & Suites by Marriott Dallas Downtown	Dallas 	TX	$119	2.5	Average	69	40	8
+471	Wyndham Dallas Suites - Park Central	Dallas 	TX	$82	4.0	Very good	36	14	1
+472	Crowne Plaza Hotel Dallas Downtown	Dallas 	TX	$88	3.5	Very good	100	105	23
+473	Hotel Indigo Dallas Downtown	Dallas 	TX	$103	4.0	Very good	99	76	9
+474	Hyatt Regency Dfw	Dallas 	TX	$169	4.0	Very good	45	73	0
+475	La Quinta Inn & Suites by Wyndham Dallas Love Field	Dallas 	TX	$89	4.5	Excellent	NA	NA	NA
+476	Hotel ZaZa Dallas	Dallas 	TX	$264	4.5	Excellent	96	72	9
+477	Hyatt Place Dallas Park Central	Dallas 	TX	$89	4.0	Very good	NA	NA	NA
+478	Canvas Hotel Dallas	Dallas 	TX	$122	4.0	Very good	70	12	6
+479	Days Inn by Wyndham Market Center Dallas Love Field	Dallas 	TX	$72	4.0	Very good	70	16	4
+480	Cooper Hotel Conference Center & Spa	Dallas 	TX	$155	4.5	Excellent	41	48	3
+481	DoubleTree by Hilton Dallas Market Center	Dallas 	TX	$85	4.0	Very good	69	15	4
+482	Hilton Garden Inn Downtown Dallas	Dallas 	TX	$139	4.0	Very good	100	129	15
+483	Le Meridien Dallas by the Galleria	Dallas 	TX	$136	4.0	Very good	71	78	6
+484	Warwick Melrose - Dallas	Dallas 	TX	$143	4.5	Excellent	84	41	7
+485	La Quinta Inn & Suites by Wyndham Dallas Downtown	Dallas 	TX	$109	3.5	Very good	93	47	14
+486	Courtyard by Marriott Dallas Downtown/Reunion District	Dallas 	TX	$134	4.5	Excellent	93	40	13
+487	Hyatt House Dallas/Uptown	Dallas 	TX	$113	4.0	Very good	78	194	40
+488	Cambria Hotel & Suites	Dallas 	TX	$139	4.0	Very good	100	110	9
+489	The Adolphus, Autograph Collection	Dallas 	TX	$289	4.5	Excellent	100	123	16
+490	Hilton Anatole	Dallas 	TX	$239	4.0	Very good	60	37	11
+491	Omni Dallas Hotel	Dallas 	TX	$189	4.5	Excellent	90	24	7
+492	Hotel Crescent Court	Dallas 	TX	$215	4.5	Excellent	95	77	10
+493	Magnolia Hotel Dallas Downtown	Dallas 	TX	$123	4.5	Excellent	100	127	15
+494	Hyatt Regency Dallas	NA	TX	$159	4.0	Very good	88	16	5
+495	Omni Dallas Hotel at Park West	Dallas 	TX	$179	4.5	Excellent	NA	NA	NA
+496	Ka'anapali Beach Hotel	Maui 	HI	$218	4.5	Excellent	81	37	11
+497	Aston Kaanapali Shores	Maui 	HI	$314	4.0	Very good	67	19	2
+498	Andaz Maui At Wailea Resort	Maui 	HI	$455	4.5	Excellent	74	32	17
+499	Grand Wailea	Maui 	HI	$649	4.0	Very good	87	30	11
+500	Napili Sunset Beachfront Resort	Maui 	HI	NA	4.5	Excellent	58	13	10
+501	Hyatt Regency Maui Resort and Spa	Maui 	HI	$629	4.0	Very good	60	32	14
+502	Aston Maui Kaanapali Villas	Maui 	HI	$259	4.0	Very good	54	29	8
+503	Royal Lahaina Resort	Maui 	HI	$229	4.0	Very good	64	40	17
+504	Fairmont Kea Lani, Maui	Maui 	HI	$881	4.5	Excellent	69	20	11
+505	Four Seasons Resort Maui at Wailea	Maui 	HI	$880	4.5	Excellent	79	11	3
+506	Mana Kai Maui	Maui 	HI	NA	4.5	Excellent	54	209	80
+507	The Mauian Hotel on Napili Beach	Maui 	HI	$309	4.5	Excellent	61	13	10
+508	Maui Coast Hotel	Maui 	HI	$380	4.5	Excellent	70	16	4
+509	Ka'anapali Beach Club	Maui 	HI	$486	4.0	Very good	64	19	2
+510	The Westin Nanea Ocean Villas, Ka'anapali	Maui 	HI	$639	4.5	Excellent	60	33	7
+511	Honua Kai Resort & Spa	Maui 	HI	$404	4.5	Excellent	62	14	2
+512	Wailea Beach Resort - Marriott, Maui	Maui 	HI	$699	4.5	Excellent	85	22	9
+513	The Ritz-Carlton	Maui 	HI	$569	4.5	Excellent	64	11	7
+514	The Westin Ka'anapali Ocean Resort Villas	Maui 	HI	$529	4.5	Excellent	58	22	7
+515	Lumeria Maui	Maui 	HI	$389	4.5	Excellent	NA	NA	NA
+516	Montage Kapalua Bay	Maui 	HI	$1,445	5.0	Excellent	55	14	9
+517	Marriott's Maui Ocean Club - Molokai, Maui & Lanai Towers	Maui 	HI	$439	4.5	Excellent	71	38	16
+518	Maui Guest House	Maui 	HI	$229	5.0	Excellent	NA	NA	NA
+519	The Kapalua Villas, Maui	Maui 	HI	$245	4.0	Very good	67	16	12
+520	Napili Shores Maui by Outrigger	Maui 	HI	$259	4.0	Very good	64	13	10
+521	The Plantation Inn	Maui 	HI	$222	4.5	Excellent	100	82	75
+522	Courtyard by Marriott Maui Kahului Airport	Maui 	HI	$249	4.5	Excellent	52	50	6
+523	What a Wonderful World Bed and Breakfast	Maui 	HI	$250	4.5	Excellent	42	209	80
+524	Ho'olei at Grand Wailea	Maui 	HI	$2,195	5.0	Excellent	75	48	20
+525	Ku'au Inn Bed and Breakfest	Maui 	HI	NA	4.5	Excellent	NA	NA	NA
+526	Welk Resorts Branson Hotel	Branson 	MO	$79	4.5	Excellent	46	242	316
+527	Lodge of the Ozarks	Branson 	MO	$102	5.0	Excellent	83	14	31
+528	Radisson Hotel Branson	Branson 	MO	$87	4.0	Very good	83	21	24
+529	Hotel Grand Victorian	NA	MO	$110	4.5	Excellent	85	28	17
+530	Savannah House Hotel	Branson 	MO	$82	4.5	Excellent	58	16	18
+531	Carriage House Inn	Branson 	MO	$65	4.5	Excellent	78	47	84
+532	Super 8 by Wyndham Branson/Andy Williams Theatre	Branson 	MO	$64	4.5	Excellent	78	15	23
+533	Chateau on the Lake Resort Spa & Convention Center	Branson 	MO	$149	4.5	Excellent	NA	NA	NA
+534	Ramada by Wyndham Branson	Branson 	MO	$50	4.5	Excellent	49	16	20
+535	Marriott's Willow Ridge Lodge	Branson 	MO	$79	4.5	Excellent	85	12	24
+536	Seven Gables Inn	Branson 	MO	$65	4.5	Excellent	84	14	35
+537	Branson Towers Hotel	Branson 	MO	$70	4.0	Very good	55	14	11
+538	Branson's Best	Branson 	MO	$72	4.5	Excellent	77	11	16
+539	Hilton Branson Convention Center	Branson 	MO	$121	4.0	Very good	92	40	48
+540	Green Gables Inn	Branson 	MO	$52	4.5	Excellent	79	21	15
+541	The Branson Clarion Hotel & Conference Center	Branson 	MO	$116	4.0	Very good	88	17	28
+542	Holiday Inn Express Hotel & Suites Branson 76 Central	Branson 	MO	$114	4.0	Very good	81	21	21
+543	Shady Acre Motel	Branson West 	MO	$59	5.0	Excellent	NA	NA	NA
+544	Camden Hotel & Conference Center	Branson 	MO	$89	4.5	Excellent	83	22	16
+545	Quality Inn West	Branson 	MO	$81	4.5	Excellent	74	12	21
+546	Barrington Hotel & Suites	Branson 	MO	$59	4.5	Excellent	58	20	16
+547	Twelve Oaks Inn	Branson 	MO	$50	4.5	Excellent	71	33	79
+548	The Dutton Inn	Branson 	MO	$70	4.5	Excellent	75	36	79
+549	Best Western Music Capital Inn	Branson 	MO	$91	4.5	Excellent	65	20	53
+550	StoneBridge Resort	Branson West 	MO	$119	4.5	Excellent	NA	NA	NA
+551	Holiday Inn Express Branson - Green Mountain Drive	Branson 	MO	$113	4.5	Excellent	75	55	77
+552	Brookwood Inn	Branson 	MO	$77	4.5	Excellent	75	47	82
+553	Rosebud Inn	Branson 	MO	$105	4.5	Excellent	68	53	67
+554	Spinning Wheel Inn	Branson 	MO	$50	4.5	Excellent	72	35	84
+555	Red Bud Cove	Hollister 	MO	$149	5.0	Excellent	NA	NA	NA
+556	Holiday Inn Washington - Capitol	Washington DC 	DC	$165	4.0	Very good	100	38	7
+557	Hotel Hive	Washington DC 	DC	$119	5.0	Excellent	99	39	8
+558	Washington Plaza Hotel	Washington DC 	DC	$104	4.5	Excellent	100	121	17
+559	Hyatt Regency Washington on Capitol Hill	Washington DC 	DC	$199	4.0	Very good	100	47	12
+560	Phoenix Park Hotel	Washington DC 	DC	$188	4.5	Excellent	100	82	13
+561	The St. Gregory Hotel	Washington DC 	DC	$132	4.5	Excellent	100	209	29
+562	Cambria Hotel Washington D.C. Convention Center	Washington DC 	DC	$127	4.5	Excellent	100	58	7
+563	The Fairfax at Embassy Row	Washington DC 	DC	$143	4.0	Very good	100	104	36
+564	Courtyard by Marriott Washington Downtown/Convention Center	Washington DC 	DC	$152	4.5	Excellent	100	95	11
+565	Melrose Georgetown Hotel	Washington DC 	DC	$144	4.5	Excellent	100	75	6
+566	Churchill Hotel Near Embassy Row	Washington DC 	DC	$169	4.0	Very good	96	55	16
+567	Capitol Hill Hotel	Washington DC 	DC	$143	4.5	Excellent	100	37	8
+568	The Darcy Washington DC	Washington DC 	DC	$169	4.5	Excellent	100	101	27
+569	The Normandy Hotel	Washington DC 	DC	$170	4.5	Excellent	90	31	7
+570	Hotel 1600	Washington DC 	DC	$99	4.0	Very good	NA	NA	NA
+571	Hilton Garden Inn Washington DC Downtown	Washington DC 	DC	$162	4.5	Excellent	100	201	17
+572	Avenue Suites Georgetown	Washington DC 	DC	$189	4.5	Excellent	100	68	5
+573	Hampton Inn Washington Downtown Convention Center	Washington DC 	DC	$130	4.5	Excellent	100	144	18
+574	The Georgetown Inn	Washington DC 	DC	$159	4.0	Very good	98	124	35
+575	Holiday Inn Washington DC - Central / White House	Washington DC 	DC	$136	4.0	Very good	100	101	24
+576	Kimpton Hotel Palomar Washington DC	Washington DC 	DC	$119	4.5	Excellent	100	103	34
+577	Hyatt House Washington DC/The Wharf	Washington DC 	DC	$175	4.0	Very good	98	38	11
+578	Donovan Hotel	Washington DC 	DC	$139	4.5	Excellent	100	141	14
+579	Courtyard Washington Capitol Hill/Navy Yard	Washington DC 	DC	$135	4.0	Very good	99	52	4
+580	Comfort Inn Downtown DC Convention Center	NA	DC	$125	4.0	Very good	100	127	12
+581	Homewood Suites by Hilton Washington DC Convention Ctr	Washington DC 	DC	$199	4.5	Excellent	100	51	6
+582	West End part of the Georgetown Collection	Washington DC 	DC	$118	4.5	Excellent	100	156	8
+583	Tabard Inn	Washington DC 	DC	$150	4.0	Very good	100	169	36
+584	Homewood Suites By Hilton Washington DC NoMa Union Station	Washington DC 	DC	$192	4.5	Excellent	75	118	6
+585	Moxy Washington, DC Downtown	Washington DC 	DC	$203	4.5	Excellent	100	125	13
+586	Kalorama Guest House	Washington DC 	DC	$115	4.5	Excellent	83	75	11
+587	Georgetown Suites	Washington DC 	DC	$132	4.0	Very good	96	116	21
+588	Sleep Inn	Nashville 	TN	$60	4.0	Very good	45	15	1
+589	Holiday Inn Nashville-Vanderbilt (Downtown)	Nashville 	TN	$206	4.5	Excellent	86	43	5
+590	Clarion Hotel Nashville Downtown - Stadium	Nashville 	TN	$217	4.5	Excellent	59	43	12
+591	The Capitol Hotel Downtown Nashville	Nashville 	TN	$294	4.0	Very good	99	87	21
+592	Drury Inn & Suites Nashville Airport	Nashville 	TN	$130	4.5	Excellent	41	44	7
+593	Homewood Suites Nashville Vanderbilt	Nashville 	TN	$297	4.5	Excellent	88	46	7
+594	Holiday Inn Express Hotel & Suites Nashville - Opryland	Nashville 	TN	$169	4.5	Excellent	80	30	22
+595	Hampton Inn & Suites Nashville @ Opryland	Nashville 	TN	$140	4.5	Excellent	80	16	19
+596	Hyatt House Nashville at Vanderbilt	Nashville 	TN	$193	4.5	Excellent	NA	NA	NA
+597	Comfort Suites  Airport	Nashville 	TN	$98	4.0	Very good	NA	NA	NA
+598	Bode Nashville	Nashville 	TN	$249	4.5	Excellent	NA	NA	NA
+599	Hilton Garden Inn Nashville/Vanderbilt	Nashville 	TN	$229	4.5	Excellent	91	72	18
+600	Home2 Suites by Hilton Nashville Vanderbilt	Nashville 	TN	$215	4.5	Excellent	91	72	17
+601	Nashville Downtown Hostel	Nashville 	TN	$120	4.5	Excellent	100	147	76
+602	DoubleTree by Hilton Nashville-Downtown	Nashville 	TN	$494	4.0	Very good	100	112	35
+603	The Westin Nashville	Nashville 	TN	$404	4.5	Excellent	92	42	23
+604	Hampton Inn & Suites Nashville - Downtown	Nashville 	TN	$421	4.0	Very good	100	91	48
+605	Hotel Indigo Nashville	NA	TN	$359	4.5	Excellent	100	123	48
+606	Radisson Hotel Nashville Airport	Nashville 	TN	$107	4.0	Very good	38	44	7
+607	Best Western Plus Belle Meade Inn & Suites	Nashville 	TN	$140	4.5	Excellent	39	54	5
+608	Courtyard by Marriott Nashville Green Hills	Nashville 	TN	$156	4.0	Very good	61	81	9
+609	Hilton Garden Inn Nashville Downtown / Convention Center	Nashville 	TN	$441	4.5	Excellent	96	53	22
+610	Hampton Inn Bellevue / Nashville-I-40-West	Nashville 	TN	$125	4.5	Excellent	39	28	1
+611	The Russell	NA	TN	$133	5.0	Excellent	NA	NA	NA
+612	Homewood Suites by Hilton Nashville-Airport	Nashville 	TN	$171	4.0	Very good	37	35	0
+613	TownePlace Suites Nashville Airport	Nashville 	TN	$149	4.5	Excellent	44	32	0
+614	Fairfield Inn & Suites Nashville Downtown/The Gulch	Nashville 	TN	$269	4.5	Excellent	91	39	22
+615	Residence Inn Nashville Vanderbilt/West End	Nashville 	TN	$249	4.5	Excellent	95	61	15
+616	Omni Nashville Hotel	Nashville 	TN	$699	4.5	Excellent	97	84	40
+617	JW Marriott Nashville	Nashville 	TN	$1,424	4.5	Excellent	92	41	20
